@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "https://heartrepair.sapce/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Heart Repair Space"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
@@ -11,8 +11,8 @@ googleAnalytics = ""
 [params]
 
   # Metadata for search engines and social sharing
-  name = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  name = "Heart Repairman"
+  description = "A space for repair of the human heart. It's about death, life and love."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
@@ -20,12 +20,12 @@ googleAnalytics = ""
   favicon = "favicon.ico"
 
   # Copyright
-  copyright = "&copy;2017 Your Name"
+  copyright = "&copy;2017 Heart Repairman"
 
   # Section - Content
   [params.content]
-    name = "Jenny Jones"
-    tagline = "Designer. Stylist. Nomad."
+    name = "Heart Reapairman"
+    tagline = "Kind. Overworked. Repairman."
     bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
   # Section - Visual
