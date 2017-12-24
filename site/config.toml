@@ -1,12 +1,16 @@
+baseurl = "http://example.org"
+title = "Dimension"
+theme = "dimension"
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://example.org/"
-theme = "prologue"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
-  copyright = "Untitled."
+  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Untitled"
 
 [[params.social]]
   medium = "twitter"
@@ -19,58 +23,23 @@ theme = "prologue"
   link = "#"
 
 [[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
   medium = "github"
   icon = "github"
   link = "#"
 
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
 
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "#"
-
-# Portfolio column one
-
-[[params.portfolio1]]
-  title = "Ipsum Feugiat"
-  alt = ""
-  source = "img/pic02.jpg"
-  url = "#"
-
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
-  alt = ""
-  source = "img/pic03.jpg"
-  url = "#"
-
-# Portfolio column two
-
-[[params.portfolio2]]
-  title = "Magna Nullam"
-  alt = ""
-  source = "img/pic04.jpg"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Natoque Vitae"
-  alt = ""
-  source = "img/pic05.jpg"
-  url = "#"
-
-# Portfolio column 3
-
-[[params.portfolio3]]
-  title = "Dolor Penatibus"
-  alt = ""
-  source = "img/pic06.jpg"
-  url = "#"
-
-[[params.portfolio3]]
-  title = "Orci Convallis"
-  alt = ""
-  source = "img/pic07.jpg"
-  url = "#"
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Dimension"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
