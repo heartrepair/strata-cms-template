@@ -12,7 +12,7 @@ googleAnalytics = ""
 
   # Metadata for search engines and social sharing
   name = "Heart Repairman"
-  description = "A space for repair of the human heart. It's about death, life and love."
+  description = "A space for repair of the human heart."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
@@ -25,7 +25,7 @@ googleAnalytics = ""
   # Section - Content
   [params.content]
     name = "Heart Reapairman"
-    tagline = "Kind. Overworked. Repairman."
+    tagline = "Space for Reapair of the Human Heart."
     bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
   # Section - Visual
