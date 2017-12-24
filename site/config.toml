@@ -1,45 +1,103 @@
-baseurl = "http://example.org"
-title = "Dimension"
-theme = "dimension"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-enableRobotsTXT = true
-disableKinds=["RSS"]
+# Site settings
+baseURL = "https://example.org/"
+languageCode = "en-US"
+title = "Split - HTML Template Demo"
+theme = "hugo-split-theme"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
 
 [params]
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
-  copyright = "Untitled"
 
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+  # Metadata for search engines and social sharing
+  name = "Jenny Jones"
+  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
+  # Favicon
+  favicon = "favicon.ico"
 
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+  # Copyright
+  copyright = "&copy;2017 Your Name"
 
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
+  # Section - Content
+  [params.content]
+    name = "Jenny Jones"
+    tagline = "Designer. Stylist. Nomad."
+    bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
+  # Section - Visual
+  [params.visual]
 
-[languages.de]
-languageName = "Deutsch"
-weight = 2
-title = "Dimension"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Blog"
+        url = "#"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "#"
+
+      [[params.links.list1.link]]
+        text = "Newsletter"
+        url = "#"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Dribbble"
+        url = "#"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "Link One"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Two"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Three"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
