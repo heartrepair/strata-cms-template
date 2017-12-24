@@ -11,7 +11,7 @@ googleAnalytics = ""
 [params]
 
   # Metadata for search engines and social sharing
-  name = "Heart Repairman"
+  name = "Heart Repair Space"
   description = "A space for repair of the human heart."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
