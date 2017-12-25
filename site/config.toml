@@ -71,10 +71,10 @@ googleAnalytics = ""
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Games"
+      heading = "Links"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Games"
         url = "#"
 
       [[params.links.list3.link]]
