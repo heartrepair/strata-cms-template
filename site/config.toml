@@ -88,6 +88,18 @@ googleAnalytics = ""
       [[params.links.list3.link]]
         text = "Link Three"
         url = "#"
+        
+     [[params.links.list4.link]]
+        text = "Link Four"
+        url = "#"
+        
+     [[params.links.list5.link]]
+        text = "Link Five"
+        url = "#"
+        
+     [[params.links.list6.link]]
+        text = "Link Six"
+        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
