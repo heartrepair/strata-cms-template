@@ -56,12 +56,7 @@ googleAnalytics = ""
         url = "http://blog.heartrepair.space/"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Email: heart.repairman@xoxy.net "
 
   # Links List #2
   [[params.links]]
@@ -69,17 +64,12 @@ googleAnalytics = ""
       heading = "Connect"
 
       [[params.links.list2.link]]
-        text = "Email"
-        url = "heart.repairman@xoxy.net"
-        
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+        text = "Email: heart.repairman@xoxy.net"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Games"
 
       [[params.links.list3.link]]
         text = "Link One"
