@@ -64,9 +64,11 @@ googleAnalytics = ""
         text = "heart."
         url = "#"
         
+      [[params.links.list2.link]]
         text = "repairman"
         url = "#"
         
+      [[params.links.list2.link]]
         text = "@xoxy.net"
         url = "#"
 
