@@ -65,17 +65,21 @@ googleAnalytics = ""
         url = "#"
         
       [[params.links.list2.link]]
-        text = "@xoxy.net"
+        text = "@"
+        url = "#"
+        
+      [[params.links.list2.link]]
+        text = "xoxy.net"
         url = "#"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Links"
+      heading = "Games"
 
       [[params.links.list3.link]]
-        text = "Games"
-        url = "#"
+        text = "2048"
+        url = "https://2048.believing.space/"
 
       [[params.links.list3.link]]
         text = "Link Two"
