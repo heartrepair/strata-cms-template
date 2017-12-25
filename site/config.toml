@@ -65,7 +65,7 @@ googleAnalytics = ""
         url = "#"
         
       [[params.links.list2.link]]
-        text = "@"
+        text = "     @"
         url = "#"
         
       [[params.links.list2.link]]
