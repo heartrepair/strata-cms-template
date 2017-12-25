@@ -26,7 +26,7 @@ googleAnalytics = ""
   [params.content]
     name = "Heart Repairman"
     tagline = "Space for Repair of the Human Heart."
-    bio = "Dedicated to death, life, love and repair of the human heart."
+    bio = "Dedicated to death, life, love and repair of broken hearts."
 
   # Section - Visual
   [params.visual]
