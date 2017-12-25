@@ -61,7 +61,14 @@ googleAnalytics = ""
       heading = "Email"
 
       [[params.links.list2.link]]
-        text = "heart.repairman@xoxy.net"
+        text = "heart."
+        url = "#"
+        
+        text = "repairman"
+        url = "#"
+        
+        text = "@xoxy.net"
+        url = "#"
 
   # Links List #3
   [[params.links]]
