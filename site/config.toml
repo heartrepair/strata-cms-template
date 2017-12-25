@@ -53,7 +53,7 @@ googleAnalytics = ""
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "http://blog.heartrepair.space/"
 
       [[params.links.list1.link]]
         text = "Email"
