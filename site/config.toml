@@ -79,7 +79,7 @@ googleAnalytics = ""
 
       [[params.links.list3.link]]
         text = "2048"
-        url = "https://2048.believing.space/"
+        url = "https://2048.heartrepair.space/"
 
       [[params.links.list3.link]]
         text = "Link Two"
