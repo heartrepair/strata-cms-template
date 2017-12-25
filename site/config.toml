@@ -89,15 +89,15 @@ googleAnalytics = ""
         text = "Link Three"
         url = "#"
         
-     [[params.links.list4.link]]
+     [[params.links.list3.link]]
         text = "Link Four"
         url = "#"
         
-     [[params.links.list5.link]]
+     [[params.links.list3.link]]
         text = "Link Five"
         url = "#"
         
-     [[params.links.list6.link]]
+     [[params.links.list3.link]]
         text = "Link Six"
         url = "#"
 
