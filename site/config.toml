@@ -86,12 +86,12 @@ googleAnalytics = ""
         url = "https://asteroids.heartrepair.space/"
 
       [[params.links.list3.link]]
-        text = "Chess"
-        url = "https://chess.heartrepair.space/"
+        text = "Breaklock"
+        url = "https://breaklockpage.heartrepair.space/"
         
      [[params.links.list3.link]]
-        text = "Link Four"
-        url = "#"
+        text = "Chess"
+        url = "https://chess.heartrepair.space"
         
      [[params.links.list3.link]]
         text = "Link Five"
