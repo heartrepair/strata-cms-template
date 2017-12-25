@@ -49,7 +49,7 @@ googleAnalytics = ""
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Thoughts"
 
       [[params.links.list1.link]]
         text = "Blog"
@@ -66,18 +66,14 @@ googleAnalytics = ""
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Connect"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
+        text = "Email"
+        url = "heart.repairman@xoxy.net"
+        
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
         url = "#"
 
   # Links List #3
