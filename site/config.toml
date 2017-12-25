@@ -86,7 +86,7 @@ googleAnalytics = ""
         url = "https://asteroids.heartrepair.space/"
 
       [[params.links.list3.link]]
-        text = "Breaklock"
+        text = "BreakLock"
         url = "https://breaklockpage.heartrepair.space/"
         
      [[params.links.list3.link]]
