@@ -76,6 +76,10 @@ googleAnalytics = ""
   [[params.links]]
     [params.links.list3]
       heading = "Games"
+      
+      [[params.links.list3.link]]
+        text = "2048"
+        url = "https://twenty48.heartrepair.space/"
 
       [[params.links.list3.link]]
         text = "Asteroids"
