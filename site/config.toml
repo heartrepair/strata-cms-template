@@ -94,6 +94,10 @@ googleAnalytics = ""
         url = "https://chess.heartrepair.space"
         
      [[params.links.list3.link]]
+        text = "Connect Four"
+        url = "https://connect4.heartrepair.space"
+        
+     [[params.links.list3.link]]
         text = "Space Invaders"
         url = "https://invaders.heartrepair.space"
 
