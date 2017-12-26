@@ -92,6 +92,10 @@ googleAnalytics = ""
      [[params.links.list3.link]]
         text = "Chess"
         url = "https://chess.heartrepair.space"
+        
+     [[params.links.list3.link]]
+        text = "Space Invaders"
+        url = "https://invaders.heartrepair.space"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
